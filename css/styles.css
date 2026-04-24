@@ -7494,7 +7494,7 @@ textarea.form-control-lg {
 .py-5 {
   padding-top: 3rem !important;
   padding-bottom: 3rem !important;
-  background-color: var(--bs-gray-400);
+  background-color: var(--bs-gray-200);
 }
 
 .pt-0 {
@@ -11717,6 +11717,7 @@ header.masthead .masthead-heading {
 
 .img-brand {
   height: 2.75rem;
+  filter: drop-shadow(0 6px 6px rgba(0,0,0,0.25));
 }
 
 section#contact {
